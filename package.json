@@ -20,5 +20,8 @@
   "homepage": "https://github.com/DiasChitiche/testes-ebac-ui#readme",
   "dependencies": {
     "cypress": "^16.0.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.6.0"
   }
 }
